@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github.com/etcor/bookings-go/pkg/config"
-	"github.com/etcor/bookings-go/pkg/models"
-	"github.com/etcor/bookings-go/pkg/render"
+	"github.com/ecordes-vt/bookings-go/pkg/config"
+	"github.com/ecordes-vt/bookings-go/pkg/models"
+	"github.com/ecordes-vt/bookings-go/pkg/render"
 	"net/http"
 )
 

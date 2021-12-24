@@ -1,4 +1,4 @@
-module github.com/etcor/bookings-go
+module github.com/ecordes-vt/bookings-go
 
 go 1.17
 

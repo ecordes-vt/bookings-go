@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/alexedwards/scs/v2"
-	"github.com/etcor/bookings-go/pkg/config"
-	"github.com/etcor/bookings-go/pkg/handlers"
-	"github.com/etcor/bookings-go/pkg/render"
+	"github.com/ecordes-vt/bookings-go/pkg/config"
+	"github.com/ecordes-vt/bookings-go/pkg/handlers"
+	"github.com/ecordes-vt/bookings-go/pkg/render"
 	"log"
 	"net/http"
 	"time"

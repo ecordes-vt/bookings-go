@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/etcor/bookings-go/pkg/config"
-	"github.com/etcor/bookings-go/pkg/handlers"
+	"github.com/ecordes-vt/bookings-go/pkg/config"
+	"github.com/ecordes-vt/bookings-go/pkg/handlers"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 	"net/http"
